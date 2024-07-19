@@ -2,8 +2,13 @@
 ![VPCの情報](https://github.com/user-attachments/assets/eb6a4997-2a60-46af-855d-00bc29e1d568)
 
 ## VPCのリソースマップ
+![VPCのリソースマップ](https://github.com/user-attachments/assets/e9aa3a3f-dbff-42bd-9f61-ed6df2f2d28b)
 
 ## サブネットのルートテーブルの情報
+![サブネット(private1)のルートテーブル](https://github.com/user-attachments/assets/558048a5-05ea-4e81-b942-4e931a4cd6c0)
+![サブネット(private2)のルートテーブル](https://github.com/user-attachments/assets/9b9cacfb-4b54-4333-b210-aab3d5742938)
+![サブネット(public1)のルートテーブル](https://github.com/user-attachments/assets/a2e62abc-934e-42de-9b13-7f063e02f725)
+![サブネット(public2)のルートテーブル](https://github.com/user-attachments/assets/6e51abcd-7847-47cf-bf11-36409212a254)
 
 ## EC2の情報
 ![EC2の情報](https://github.com/user-attachments/assets/a7ac34c0-2916-4051-8233-7e3337c73a49)
