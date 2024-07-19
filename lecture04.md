@@ -1,6 +1,10 @@
 ## VPCの情報
 ![VPCの情報](https://github.com/user-attachments/assets/eb6a4997-2a60-46af-855d-00bc29e1d568)
 
+## VPCのリソースマップ
+
+## サブネットのルートテーブルの情報
+
 ## EC2の情報
 ![EC2の情報](https://github.com/user-attachments/assets/a7ac34c0-2916-4051-8233-7e3337c73a49)
 
